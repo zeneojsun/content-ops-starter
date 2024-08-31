@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Screenshot 2024-08-31 at 7.23.23 PM.png
-  altText: Case study 1
+  altText: OKX LITE
   styles:
     self:
       borderRadius: large
