@@ -2,7 +2,7 @@
     "light": "#000000",
     "dark": "#4A4A4A",
     "neutral": "#ffffff",
-    "neutralAlt": "#DCDCDC",
+    "neutralAlt": "#000000",
     "primary": "#ffffff",
     "fontBody": "sans",
     "fontHeadlines": "sans",
