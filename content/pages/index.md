@@ -7,7 +7,7 @@ sections:
       text: 'Noel Cheung, Design Thinker'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Based in Nowhere
     text: ''
     actions:
       - label: Get started
