@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I help my client successed in anything they want
+      text: >-
+        14 years of experience in delivering design solutions for global
+        companies and startup
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
