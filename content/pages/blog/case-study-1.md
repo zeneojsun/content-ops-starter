@@ -82,7 +82,7 @@ styles:
     textAlign: center
     borderColor: border-light
     borderStyle: none
-    borderWidth: 0
+    borderWidth: 2
     borderRadius: medium
     flexDirection: col
     margin:
