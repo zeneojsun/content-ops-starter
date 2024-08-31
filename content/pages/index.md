@@ -10,13 +10,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A results-driven, purpose-led designer specialising in product design,
-      design systems, UXUI and branding. 
-
-      Worked in diverse industries, including Fintech, Cryptocurrency,
-      Entertainment and Retail E-commerce. Currently focus on project-based work
-      and mentoring young designers.
+    text: ''
     actions:
       - label: Get started
         altText: ''
