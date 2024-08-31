@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        14 years of experience in delivering design solutions for global
-        companies and startup
+      text: 'Noel Cheung, Design Thinker'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
