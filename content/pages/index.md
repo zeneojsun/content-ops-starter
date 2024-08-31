@@ -9,8 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      14 years of experience in delivering design solutions for global companies
-      and startup
+      A results-driven, purpose-led designer specialising in product design,
+      design systems, UXUI and branding. 
+
+      Worked in diverse industries, including Fintech, Cryptocurrency,
+      Entertainment and Retail E-commerce. Currently focus on project-based work
+      and mentoring young designers.
     actions:
       - label: Get started
         altText: ''
