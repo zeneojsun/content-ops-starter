@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: We've helped numbers of clients
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
