@@ -87,6 +87,7 @@ styles:
     flexDirection: col
     margin:
       - mt-10
+      - mb-10
 type: PostLayout
 ---
 
